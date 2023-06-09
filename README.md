@@ -29,5 +29,5 @@
 
 <h3 align="left">Support:</h3>
 <p>You don't have to but if you want to appreciate my projects for cloning or taking ideas from, I will happily take it!</p>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/TimPrashant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="https://www.buymeacoffee.com/TimPrashant" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/TimPrashant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="https://www.buymeacoffee.com/TimPrashant" /></a></p><br><br>
 
