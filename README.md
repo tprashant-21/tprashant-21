@@ -17,7 +17,7 @@
 
 - 📄 [Resume](https://drive.google.com/file/d/1UG1HnXYPaX_5cR4SQ9qteC_Y-XgjV1fG/view?usp=drive_link)
 
-- ⚡ Fun fact **I don't mean to brag, but my humor is so great, it should come with a warning label: 'Dangerously hilarious! Side effects may include uncontrollable laughter, sore cheeks, and occasional snorting.**
+- ⚡ Fun fact **you will like me instantly if you are into stand up comedy and soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
