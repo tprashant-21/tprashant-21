@@ -17,7 +17,7 @@
 
 - 📄 [Resume](https://drive.google.com/file/d/1UG1HnXYPaX_5cR4SQ9qteC_Y-XgjV1fG/view?usp=drive_link)
 
-- ⚡ Fun fact **you will like me instantly if you are into stand up comedy and soccer**
+- ⚡ **you will like me instantly if you are into stand up comedy and soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
