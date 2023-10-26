@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Prashant (he/him) </h1>
 <h3 align="center">A passionate frontend developer with a dual degree in CS and Arts & Design.</h3>
 
-- 👷🏽‍♂️ I’m currently working on [Motion Tracker Lab (A Computer Vision research project)](https://github.com/PiPhysics/MotionTrackerLab)
+- 👷🏽‍♂️ I’m currently working on [Motion Tracker Lab (A Computer Vision research project)](https://github.com/PiPhysics/MotionTrackerLab/tree/Prashant-FrontEnd)
 
 - 👨🏽‍💻 Web designer at Springfield College, MA.
 
