@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Prashant (he/him) </h1>
 <h3 align="center">A passionate and versatile developer with a strong design sense.</h3>
 
-- 👷🏽‍♂️ I’m currently working as Full Stack SWE at Rediker Software
+- 👷🏽‍♂️ I’m currently working as **Full Stack SWE at Rediker Software**
 
-- 👨🏽‍💻 (previously) Web developer at Springfield College, MA.
+- 👨🏽‍💻 (previously) **Web developer** at Springfield College, MA.
 
 - 💼 Portfolio: [https://prashanttimalsina.com/](https://prashanttimalsina.com/)
 
