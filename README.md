@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Prashant (he/him) </h1>
-<h3 align="center">A passionate frontend developer with a dual degree in CS and Arts & Design.</h3>
+<h3 align="center">A passionate and versatile developer with a strong design sense.</h3>
 
-- 👷🏽‍♂️ I’m currently working on [Motion Tracker Lab (A Computer Vision research project)](https://github.com/PiPhysics/MotionTrackerLab/tree/Prashant-FrontEnd)
+- 👷🏽‍♂️ I’m currently working as Full Stack SWE at Rediker Software
 
-- 👨🏽‍💻 Web designer at Springfield College, MA.
-
-- 🙌🏽 I’m looking for help with organizing workshops for CS club. If you can contribute in some way, please dm.
+- 👨🏽‍💻 (previously) Web developer at Springfield College, MA.
 
 - 💼 Portfolio: [https://prashanttimalsina.com/](https://prashanttimalsina.com/)
 
@@ -13,9 +11,9 @@
 
 - 💬 Ask me about **UI/UX, Frontend dev, VR dev, Motion Graphics, Graphic Design, Content Creation, Logo Design, etc**
 
-- 📫 Reach me @ **ptimalsina@springfieldcollege.edu**
+- 📫 Reach me @ **prashanttimalsina21@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1UG1HnXYPaX_5cR4SQ9qteC_Y-XgjV1fG/view?usp=drive_link)
+- 📄 [Resume](https://docs.google.com/document/d/1T6xD3GlmyhSLt4KqkQpKLs2dDTfgZQ8k1AZwkhdVmgw/edit?usp=sharing)
 
 - ⚡ **you will like me instantly if you are into stand up comedy and soccer**
 
