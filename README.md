@@ -9,13 +9,11 @@
 
 - 📝 I used to write blogs on [http://www.prashanttimalsina.com.np/](http://www.prashanttimalsina.com.np/)
 
-- 💬 Ask me about **UI/UX, Frontend dev, VR dev, Motion Graphics, Graphic Design, Content Creation, Logo Design, etc**
+- 💬 Ask me about **SWE, UI/UX, Frontend dev, Motion Graphics, Graphic Design, VR dev, Content Creation, Logo Design, etc**
 
 - 📫 Reach me @ **prashanttimalsina21@gmail.com**
 
-- 📄 [Resume](https://docs.google.com/document/d/1T6xD3GlmyhSLt4KqkQpKLs2dDTfgZQ8k1AZwkhdVmgw/edit?usp=sharing)
-
-- ⚡ **you will like me instantly if you are into stand up comedy and soccer**
+- ⚡ You will like me instantly if you are into **stand up comedy and soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
